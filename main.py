@@ -1,4 +1,4 @@
-print("Hola mundo")
+print("Hola mundo desde auxiliar")
 
 Nombre=input("bienvenido/a, ingrese su nombre:")
 
